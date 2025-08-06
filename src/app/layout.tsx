@@ -40,7 +40,7 @@ const instrumentSerif = Instrument_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "Pamela & Jeremiah - October 26, 2025",
+  title: "You're invited! October 26, 2025",
   description: "Join us as we celebrate our love and partnership in marriage",
 };
 
