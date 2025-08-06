@@ -5,6 +5,7 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from "@/components/ui/accordion";
+import Head from "next/head";
 
 export default function Home() {
   return (
@@ -18,6 +19,9 @@ export default function Home() {
       //   backgroundAttachment: "fixed",
       // }}
     >
+      <Head>
+        <title>You&aposre Invited! October 26, 2025</title>
+      </Head>
       {/* Main Invitation Section */}
       <section
         id="invitation"
@@ -45,7 +49,7 @@ export default function Home() {
               PARTNERSHIP AS THEY JOIN IN MARRIAGE ON
             </p>
 
-            <h2 className="font-serif text-4xl md:text-5xl font-medium text-white mb-8">
+            <h2 className="font-serif text-4xl md:text-5xl font-medium text-blue-900 mb-8">
               26.10.2025
             </h2>
 
