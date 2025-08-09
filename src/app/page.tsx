@@ -85,7 +85,7 @@ export default function Home() {
               <div className="text-gray-700 leading-relaxed">
                 <p className="mb-4">
                   PLEASE JOIN US FOR AN EVENING OF DINNER AND DANCING. HAPPY
-                  HOUR BEGINS AT 3:30 PM FOLLOWED BY DINNER AT 5 PM AT BOUTIQUE
+                  HOUR BEGINS AT 3:30 PM FOLLOWED BY DINNER AT 5 PM AT DARTIQUE
                   HALL (282252 HORSE CREEK RD, ROCKY VIEW COUNTY, AB T4C 1A1).
                 </p>
                 <p className="text-sm text-gray-600">
