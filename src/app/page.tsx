@@ -204,6 +204,7 @@ export default function Home() {
                 <p>ARIEL MANLONGAT - LILIBETH QUIBA</p>
                 <p>NOEL SARMIENTO - CAROLINE D. SARMIENTO</p>
                 <p>JOSEPH ALBERT VILLANUEVA - CHARITO D. VILLANUEVA</p>
+                <p>AUDIE BERNARDINO OLIQUINO - JESUSA FLORES OLIQUINO</p>
               </div>
             </div>
           </div>
