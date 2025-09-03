@@ -298,10 +298,15 @@ export default function Home() {
               by September 1st, 2025
             </p>
             <div className="flex justify-center">
-              <Image src="/rsvp.png" alt="RSVP QR" width={300} height={300} />
+              <a
+                href="https://docs.google.com/forms/d/e/1FAIpQLSexdZDP7hgywIZClPBtIR_-IDxpaL5OB1FTJUY3I4-3W8gz4g/viewform"
+                target="_blank"
+              >
+                <Image src="/rsvp.png" alt="RSVP QR" width={300} height={300} />
+              </a>
             </div>
             <p className="text-gray-700 mt-10 text-3xl font-serif leading-relaxed mb-8">
-              Please scan the QR code to RSVP.
+              Please scan/click the QR code to RSVP.
             </p>
           </div>
         </div>
