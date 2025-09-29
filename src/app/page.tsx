@@ -223,7 +223,7 @@ export default function Home() {
                 <h3 className="font-serif text-2xl font-semibold mb-6 text-blue-900">
                   MAID OF HONOR
                 </h3>
-                <p className="text-gray-700 text-lg">ERICA MAE SHABADO</p>
+                <p className="text-gray-700 text-lg">HANNA TRICIA JOBLE</p>
               </div>
 
               <div className="text-center">
@@ -231,10 +231,17 @@ export default function Home() {
                   BRIDESMAIDS
                 </h3>
                 <div className="space-y-2 text-gray-700">
-                  <p>HANNA TRICIA JOBLE</p>
                   <p>PRISHA JEROLD FLORES</p>
                   <p>IRISH JEHAN GANDIA</p>
+                  <p>DANICA ROXAS</p>
                 </div>
+              </div>
+
+              <div className="text-center">
+                <h3 className="font-serif text-2xl font-semibold mb-6 text-blue-900">
+                  BIBLE BEARER
+                </h3>
+                <p className="text-gray-700 text-lg">RICABELA SERWIT</p>
               </div>
             </div>
 
@@ -267,14 +274,14 @@ export default function Home() {
                   <p>ALLEN KIT TEMBREZA</p>
                 </div>
               </div>
-            </div>
-          </div>
 
-          <div className="text-center mb-12">
-            <h3 className="font-serif text-2xl font-semibold mb-6 text-blue-900">
-              RING BEARER
-            </h3>
-            <p className="text-gray-700 text-lg">ROD JADEN FLORES</p>
+              <div className="text-center">
+                <h3 className="font-serif text-2xl font-semibold mb-6 text-blue-900">
+                  RING BEARER
+                </h3>
+                <p className="text-gray-700 text-lg">ROD JADEN FLORES</p>
+              </div>
+            </div>
           </div>
 
           <div className="text-center max-w-2xl mx-auto">
